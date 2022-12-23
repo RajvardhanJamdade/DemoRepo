@@ -11,6 +11,9 @@ al.add(20);
 al.add(30);
 al.add(40);
 al.add(01);
+al.add(30);
+al.add(40);
+al.add(01);
 System.out.println(al);
 	}
 
