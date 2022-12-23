@@ -6,8 +6,7 @@ public class Gitd {
 
 	public static void main(String[] args) {
 ArrayList <Integer>al=new ArrayList<>();
-al.add(10);
-al.add(20);
+System.out.println(" demo 1 ");
 al.add(30);
 al.add(40);
 al.add(01);
